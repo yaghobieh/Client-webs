@@ -1,0 +1,390 @@
+.title_banner {
+    background: url('../Images/eating_banner.jpg') no-repeat center center fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 200px;
+    color: white;
+}
+
+.lang_option {
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+.lang_option a {
+    color: white;
+    text-decoration: line;
+}
+
+.logo_inside {
+    float: right;
+    margin-right: 100px;
+    margin-top: 15px;
+}
+
+.logo_inside img {
+    width: 90px;
+    height: 90px;
+}
+
+.row {
+    float: right;
+    margin-right: -60px;
+    margin-top: 102px;
+    width: 60%;
+    position: static;
+}
+
+.form-control {
+    color: silver;
+    direction: rtl;
+    font-family: inherit;
+}
+
+.radio_scame {
+    float: right;
+}
+
+.red_menu {
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    height: 70px;
+}
+
+.link_manu {
+    background: rgb(197, 10, 32);
+    display: inline-block;
+    text-align: center;
+    border-right: 2px solid white;
+    height: 30px;
+    padding: 3px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.link_manu:hover {
+    background: rgb(203, 52, 52);
+}
+
+.body_texture {
+    margin: 5px auto;
+    text-align: center;
+}
+
+.left_resturant {
+    display: inline-block;
+}
+
+.mylast-invitation {
+    background: rgb(239, 239, 239);
+    width: 270px;
+    text-align: right;
+    direction: rtl;
+    font-family: inherit;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.mylast-invitation p {
+    font-size: 20px;
+    color: #5d5a5a;
+}
+
+.mylast-invitation li {
+    list-style: none;
+    color: rgb(191, 23, 23);
+    margin: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.more_rest a {
+    color: gray;
+    margin: 5px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.right_discounts {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+}
+
+.banner_inside img {
+    width: 822px;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.gallery_ul img {
+    width: 830px;
+    height: 350px;
+}
+
+.img_line {
+    display: inline-block;
+}
+
+.img_line img {
+    width: 70px;
+    height: 75px;
+}
+
+.info-line {
+    display: inline-block;
+    margin: 5px;
+}
+
+.info-line p {
+    color: rgb(191, 23, 23);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.busy-and-pair {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.busy-and-pair img {
+    width: 412px;
+}
+
+.banner_left_center {
+    display: inline-block;
+}
+
+.banner_left_center img {
+    width: 412px;
+}
+
+.banner_left {
+    display: inline-block;
+}
+
+.banner_right {
+    display: inline-block;
+}
+
+.top-new-resturant{
+  margin-right: 25px;
+}
+
+.line-between {
+    color: rgb(191, 23, 23);
+    font-size: 16px;
+    text-align: right;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.line-between hr {
+    border: 1px solid rgb(239, 239, 239);
+    margin-top: -1px;
+}
+
+.news-inside {
+    display: inline-block;
+    margin: 3px;
+    color: gray;
+    font-size: 10px;
+    text-align: right;
+    overflow: hidden;
+}
+
+.news-inside img {
+    width: 175px;
+    height: 130px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.news-inside-title {
+    color: rgb(191, 23, 23);
+    font-size: 15px;
+}
+
+.sub_title_turkis {
+    font-size: 17px;
+    color: rgb(88, 88, 88);
+}
+
+.location_active {
+    margin-top: 5px;
+    color: black;
+    font-size: 11px;
+    direction: rtl;
+}
+
+.location_red {
+    color: red;
+}
+
+.index_webs {
+    direction: rtl;
+}
+
+.silver-banner {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.silver-banner img {
+    width: 300px;
+    height: 120px;
+}
+
+.index_webs {
+    margin-top: 10px;
+}
+
+.indexWeb {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.indexWeb a {
+    color: rgb(189, 25, 25);
+    margin-right: 70px;
+    margin-top: 40px;
+    font-size: 15px;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.banner_left img {
+    width: 270px;
+    height: 120px;
+}
+
+.archi-and-recipe {
+    margin-top: 10px;
+    direction: rtl;
+    color: rgb(189, 25, 25);
+}
+
+.archive-recipe-style {
+    display: inline-block;
+    margin-left: 13px;
+}
+
+.title-archive hr {
+    border: 1px solid rgb(239, 239, 239);
+    margin-top: -1px;
+}
+
+.links-left {
+    font-weight: 550;
+    font-size: 16px;
+    display: inline-block;
+    text-align: right;
+}
+
+.link-inside-arch {
+    margin: 3px;
+    display: inline-block;
+}
+
+.link-inside-arch p {
+    margin: 2px;
+}
+
+.img-right {
+    display: inline-block;
+}
+
+.img-right img {
+    width: 150px;
+    height: 100px;
+    vertical-align: baseline;
+}
+
+.news-footer {
+    background: rgb(233, 233, 233);
+    direction: rtl;
+    margin-top: 20px;
+    border-top: 1px solid rgb(217, 217, 217);
+    font-family: sans-serif;
+}
+
+.title-news-flash {
+    color: rgb(186, 18, 39);
+    font-weight: 500;
+    vertical-align: top;
+    display: inline-block;
+    font-size: 20px;
+    float: right;
+    margin-right: 100px;
+}
+
+.date-news-flash {
+    color: rgb(73, 71, 71);
+    font-size: 16px;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    margin-right: 15px;
+}
+
+.inside-news-flash {
+    display: inline-block;
+    color: rgb(96, 93, 93);
+    text-align: right;
+    float: right;
+    margin-right: 10px;
+}
+
+.play-forward-puse-news {
+    display: inline-block;
+    color: rgb(73, 71, 71);
+    vertical-align: top;
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+.title-inside-news-flash {
+    font-size: 18px;
+}
+
+.all-flashes {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.all-flashes a {
+    color: rgb(102, 98, 98);
+    font-weight: 500px;
+    text-decoration: underline;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+.footer-container {
+    background: rgb(197, 10, 32);
+    padding: 100px;
+    margin-top: 20px;
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+    text-align: right;
+    direction: rtl;
+}
+
+.side-links {
+    display: inline-block;
+    margin: 20px;
+}
+
+.side-links p {
+    font-weight: 600;
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+.side-links li{
+  list-style: none;
+  margin: 5px;
+}
